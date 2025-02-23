@@ -109,7 +109,7 @@ Now that you've added a data source to your project, you can use it to create an
         - **Vector settings**: Add vector search to this search resource
         - **Azure OpenAI connection**: *Select the default Azure OpenAI resource for your hub.*
         
-1. Wait for the indexing process to be completed, which can take several minutes. The index creation operation consists of the following jobs:
+1. Wait for the indexing process to be completed, **which can take several minutes**. The index creation operation consists of the following jobs:
 
     - Crack, chunk, and embed the text tokens in your brochures data.
     - Create the Azure AI Search index.
