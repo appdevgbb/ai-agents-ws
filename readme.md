@@ -1,11 +1,12 @@
 # Azure AI Foundry / Agents Workshop
 
-This repo contains instructions and assets to support practical exercises in *[Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-studio/)*.
+This repo contains instructions and assets to support practical exercises in [Microsoft Learn modules on Azure AI Foundry portal](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/).
 
 ## Prequisites
 
 * [Create](https://learn.microsoft.com/en-us/entra/fundamentals/how-subscriptions-associated-directory) an Azure subscription subscription
-* [Create](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) a resource group for this workshop 
+* [Create](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) a resource group for this workshop
+* Ensure access to [AI Foundry](https://ai.azure.com/) and permissions to add new projects.
 
 ## Exercises
 
