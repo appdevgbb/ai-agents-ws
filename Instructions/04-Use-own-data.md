@@ -252,9 +252,3 @@ Try adding a new data source through the Azure AI Foundry portal, index it, and 
 - Any of the datasets available in the [Azure Search sample data](https://github.com/Azure-Samples/azure-search-sample-data) repository.
 
 Be as resourceful as you can to create your data source and integrate it in your prompt flow. Try out the new prompt flow and submit prompts that could only be answered by the data set you chose!
-
-## Clean up
-
-To avoid unnecessary Azure costs and resource utilization, you should remove the resources you deployed in this exercise.
-
-1. If you've finished exploring Azure AI Foundry, return to the [Azure portal](https://portal.azure.com) at `https://portal.azure.com` and sign in using your Azure credentials if necessary. Then delete the resources in the resource group where you provisioned your Azure AI Search and Azure AI resources.
