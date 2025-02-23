@@ -70,7 +70,7 @@ You need two models to implement your solution:
     - **Deployment type**: Standard
     - **Model version**: *Select the default version*
     - **AI resource**: *Select the resource created previously*
-    - **Tokens per Minute Rate Limit (thousands)**: 5K
+    - **Tokens per Minute Rate Limit (thousands)**: 50K
     - **Content filter**: DefaultV2
     - **Enable dynamic quota**: Disabled
 
